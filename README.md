@@ -9,7 +9,8 @@ Presentation slides for Free Software Melbourne August 2021 meetup
 
 # To View
 
-[gh-pages](https://free-software-melbourne.github.io/Controversies-2021-August/)
+[GH-Pages](https://free-software-melbourne.github.io/Controversies-2021-August/)
+[Source and PDF](https://github.com/Free-Software-Melbourne/Controversies-2021-August)
 
 
 # To Run
